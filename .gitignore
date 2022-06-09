@@ -1,2 +1,2 @@
 #Ignore HTML files
-html/
+*.html
